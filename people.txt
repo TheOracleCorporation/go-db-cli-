@@ -1,0 +1,5 @@
+Slave,21,Tokio
+Bob,18,London
+Kate,25,Paris
+John,30,Berlin
+
